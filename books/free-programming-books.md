@@ -2400,6 +2400,7 @@ Kerridge (PDF) (email address *requested*, not required)
 * [PostgreSQL Tutorial](https://www.tutorialspoint.com/postgresql) - Tutorials Point
 * [Practical PostgreSQL](http://www.faqs.org/docs/ppbook/book1.htm)
 * [The Internals of PostgreSQL for database administrators and system developers](http://www.interdb.jp/pg)
+* [Learn SQL: Interactive SQL Book](https://dataschool.com/learn-sql/) (PostgreSQL interactive SQL Tutorial - Data School)
 
 
 ### PowerShell
@@ -2994,6 +2995,7 @@ Kerridge (PDF) (email address *requested*, not required)
 * [TypeScript Deep Dive](https://basarat.gitbooks.io/typescript/)
 * [TypeScript for C# Programmers](http://www.infoq.com/minibooks/typescript-c-sharp-programmers)
 * [TypeScript Succinctly, Syncfusion](https://www.syncfusion.com/resources/techportal/ebooks/typescript) (PDF, Kindle) (email address *requested*, not required)
+* [Tackling TypeScript: Upgrading from JavaScript](https://exploringjs.com/tackling-ts/index.html)
 
 
 #### Angular
